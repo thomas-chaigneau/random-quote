@@ -1,0 +1,23 @@
+.randomCardContainer {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.author {
+    font-style: italic;
+}
+
+.content {
+    font-size: 18px;
+}
+
+.error {
+    font-style: italic;
+    color: red;
+}
